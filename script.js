@@ -1,4 +1,3 @@
-//complete this code
 class Rectangle {
 	constructor(width,height){
 		this.width = width;
@@ -25,7 +24,7 @@ class Square extends Animal {
 	}
 
 	getPerimeter(){
-		return  4 * `${this.side}`
+		return ` 4 * ${this.side}`
 	}
 }
 
